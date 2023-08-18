@@ -8,14 +8,14 @@
 }
 
 #container::before {
-    content: "Before Content";
+    content: "Before Element";
 /*     display: block; */
     color: #f00;
     font-size: 20px;
 }
 
 #container::after {
-    content: "After Content";
+    content: "After Element";
 /*     display: block; */
     color: #f00;
     font-size: 20px;
